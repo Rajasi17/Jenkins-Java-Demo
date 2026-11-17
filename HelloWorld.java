@@ -7,7 +7,9 @@ public class HelloWorld {
 
         System.out.println("Welcome to Jenkins Automation!");
 
-        System.out.println("Build executed successfully.");
+        System.out.println("Code Updated Successfully!");
+
+        System.out.println("Automatic Build Triggered!");
 
     }
 }
